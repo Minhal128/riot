@@ -29,3 +29,5 @@ QKD.txt
 *.out
 *.app
 >>>>>>> e33e1e903052fffc444e6a1b3a2bacdeb562ad88
+config.bat
+node_modules
