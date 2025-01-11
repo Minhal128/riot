@@ -9,6 +9,9 @@
 <p>This is for educational purposes only. Please don't use this program for malicious activities. Misuse of this code may be illegal in some jurisdictions.</p>
 
 <h2>🔎 Project Preview</h2>
+before execution  
+<img src="https://imgur.com/eugrdaT.jpg">
+after execution 
 <img src= "https://imgur.com/k26o7wd.jpg">
 
 <h2>🧐 Features</h2>
